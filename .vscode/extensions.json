@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "matklad.rust-analyzer",
+        "mooman219.rust-assist",
+        "swellaby.rust-pack",
+        "lorenzopirro.rust-flash-snippets"
+    ]
+}
